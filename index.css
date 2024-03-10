@@ -28,6 +28,10 @@ header  img{
 h1{
     color: skyblue;
 }
+
+
+
+
 footer img {
     width: 40px;
     height: 40px;
@@ -40,7 +44,7 @@ footer{
 
 }
 .conteiner{
-    padding: 0px 50px;
+    padding: 0px 80px;
 }
 
 nav a:hover{
